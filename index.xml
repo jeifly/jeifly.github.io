@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>jei, fly high</title><link>https://jeifly.github.io/</link><description>Recent content on jei, fly high</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 jei</copyright><atom:link href="https://jeifly.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Archive</title><link>https://jeifly.github.io/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jeifly.github.io/archives/</guid><description>archives</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>일상이 경험이 된다 on jei, fly high</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in 일상이 경험이 된다 on jei, fly high</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 jei</copyright>
+    <lastBuildDate>Sat, 04 Jul 2026 01:40:54 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Sat, 04 Jul 2026 01:40:54 +0900</pubDate>
+      
+      <guid>http://localhost:1313/search/</guid>
+      <description>search</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 03 Jul 2026 22:57:25 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>봄날, 출근은 서늘하게</title>
+      <link>http://localhost:1313/posts/times-2026-04-16/</link>
+      <pubDate>Wed, 16 Apr 2025 06:40:10 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/times-2026-04-16/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/archives/</guid>
+      <description>archives</description>
+      
+    </item>
+    
+  </channel>
+</rss>
