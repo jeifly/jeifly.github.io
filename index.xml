@@ -36,7 +36,7 @@
       
       <guid>http://localhost:1313/posts/times-2026-04-16/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/times-2026-04-16/feature-st.png" />
     </item>
     
     <item>
